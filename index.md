@@ -10,7 +10,7 @@ My GitHub page is http://github.com/kiroskiki
 
 * Lab 7
 
-    Lab 7 is one of my favorites because it introduced me to a way on how devices know when something is allowed or not allowed just based off the information given. I learned how to properly use logical operators such as “&&” and “||”.
+    [Lab 7 is one of my favorites because it introduced me to a way on how devices know when something is allowed or not allowed just based off the information given. I learned how to properly use logical operators such as “&&” and “||”.]
 
 * Lab 10
 
